@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a Web Application
 - 🌱 I’m currently learning Network Management
 - 📫 How to reach me:  
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-407294?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaelsilva/)](https://www.linkedin.com/in/kaelsilva/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-407294?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaelsilva/)](https://www.linkedin.com/in/kaelsilva/)
 [![Gmail Badge](https://img.shields.io/badge/-E--mail-B23121?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kaelsilvaaraujo@gmail.com/)](mailto:kaelsilvaaraujo@gmail.com)
 ![Discord Badge](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white)
 
